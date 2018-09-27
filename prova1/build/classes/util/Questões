@@ -1,0 +1,11 @@
+O que são classes?
+Clases são como se fossem a receita para se construir um objeto, a estrutura do
+ mesmo, ela que descreve os atributos e comportamentos( metodos) de um objeto .
+
+
+O que são objetos?
+Objetos são classes sendo estanciadas, distinguiveis entre si, mesmo sendo da mesma classe e com atributos identicos.
+
+
+O que é encapsulamento?
+Encapsulamento é o que faz com que detalhes internos da classe não sejam acessíveis de fora dela, tornando mais seguro e organizado a execução.
